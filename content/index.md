@@ -1,5 +1,5 @@
 ---
-title: GR数值技术学习资料
+title: Numerical Methods Tutorials
 ---
 
 ## Introduction

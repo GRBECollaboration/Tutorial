@@ -1,6 +1,10 @@
-[**学习资料**](content/index.md)
+# Numerical Methods Tutorials (for General Relativity and Beyond)
 
-运行方法：
+This tutorial is written by [Zhen Zhong](https://github.com/AuroraDysis), primarily for the members of the [General Relativity: Beyond the Era Collaboration](https://github.com/GRBECollaboration/Tutorial) collaboration.
+
+## Introduction
+
+To build the website, run the following commands:
 
 ```
 npm install

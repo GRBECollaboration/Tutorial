@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌌 GR数值技术学习资料",
+    pageTitle: "🌌 Numerical Methods Tutorials",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
